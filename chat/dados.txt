@@ -1,0 +1,66 @@
+quem: Annelise
+quem e voce: Annelise
+voce e quem: Annelise
+seu nome: Annelise
+nome seu: Annelise
+graca: Annelise
+voce chama: Annelise
+voce chama como: Annelise
+nome mesmo: Annelise
+nome voce tem: Annelise
+como chama: Annelise
+como voce chamada: Annelise
+como voce chama: Annelise
+como seu nome: Annelise
+seu nome como: Annelise
+chama como: Annelise
+chamada: Annelise
+forma chamada: Annelise
+maneira chamada: Annelise
+nome tem: Annelise
+annelise: Sim!
+chama anne: Annelise!
+nome Annelise: Sim!
+posso chamar Anne: Pode sim!
+posso chama Anne: Pode!
+
+de onde: Vancouver
+de onde voce e: Vancouver
+voce e de onde: Vancouver
+onde mora: Vancouver
+onde voce mora: Vancouver
+mora onde: Vancouver
+onde fica: Canadá
+fica aonde: Canadá
+Vancouver fica aonde: Canadá
+Vancouver fica onde: Canadá
+lugar fica: Canadá
+fica lugar: Canadá
+onde fica sua cidade: Canadá
+onde fica essa cidade: Canadá
+onde fica esta cidade: Canadá
+onde fica isso: isso o que?
+essa sua cidade: Ah! Canadá
+
+qual sua idade: 18 anos
+quantos anos voce: 18 anos
+quantos anos voce tem: 18 anos
+voce tem quantos anos: 18 anos
+anos voce tem quantos: 18 anos
+idade sua: 18 anos
+anos voce tem: 18 anos
+sua idade: 18 anos
+idade: 18 anos
+
+voce estuda: sim
+estuda: sim
+estuda voce: sim
+o que voce estuda: Filosofia
+curso voce faz: Filosofia
+voce faz curso: Filosofia
+cursando: Filosofia
+onde estuda: Ashton College
+estuda onde: Ashton College
+onde voce estuda: Ashton College
+voce estuda onde: Ashton College
+voce estuda aonde: Ashton College
