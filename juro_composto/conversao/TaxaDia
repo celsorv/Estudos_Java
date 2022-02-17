@@ -1,0 +1,11 @@
+public class TaxaDia extends Convertivel {
+
+    public static double aoMes(double taxa) {
+        return menorParaMaior(taxa, 30);
+    }
+
+    public static double aoAno(double taxa) {
+        return menorParaMaior(taxa, 360);
+    }
+
+}
