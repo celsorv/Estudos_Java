@@ -7,7 +7,7 @@ public class Main {
 
         for (long i = 0; i < numberOfTerms; i++) {
             long currentTerm = firstTerm + i * commonDifference; // O(n)
-            sum += currentTerm;                                 // O(n)
+            sum += currentTerm;                                  // O(n)
         }
 
         return sum;  // O(1)
