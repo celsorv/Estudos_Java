@@ -36,7 +36,7 @@ public class Fibonacci {
         double fib = 1;     // caso base 1
 
         for (int i = 2; i <= n; i++) {
-            double fibNext = fibPrev + fib;
+            double fibNext = fib + fibPrev;
             fibPrev = fib;
             fib = fibNext;
         }
